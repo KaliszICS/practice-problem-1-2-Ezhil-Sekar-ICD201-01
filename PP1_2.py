@@ -1,5 +1,10 @@
 
-
+'''
+    Lesson: Variables and Data Types
+    Author: Ezhil S.
+    Date Created: Sept 16, 2024
+    Date Last Modified: Sept 16, 2024
+'''
 #Write Assignment code here
 
 def q1():
