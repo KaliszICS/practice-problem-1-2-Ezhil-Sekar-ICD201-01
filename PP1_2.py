@@ -34,7 +34,8 @@ def q5():
     print(char)
 
 def q6():
-    char10 = True
+    true=True
+    print(true)
 
 def q7():
     char8 = 7
